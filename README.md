@@ -1,0 +1,2 @@
+# GOOLauncher
+GOOLauncher version codes.
